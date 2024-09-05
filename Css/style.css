@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 100px;
+
+}
+
+h2 {
+    text-align: center;
+    color: rgb(52, 36, 36);
+  
+}
+
+p {
+    line-height: 40px;
+    font-size: 40px;
+    text-align: justify;
+}
+
+#txt01 {
+    color: blueviolet;
+    text-align: right;
+}
+
+#text02 {
+    background-color: bisque;
+    text-transform: uppercase;
+
+}
+
+img {
+    height: 320px;
+    width: 320px;
+    border-radius: 320px;
+   
+}

@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vh;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+#form {
+    border: 5px solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
